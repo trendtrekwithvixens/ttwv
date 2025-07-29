@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "gaming-laptop",
+    "title": "ASUS ROG Strix G15 Gaming Laptop",
+    "description": "High-performance gaming laptop with RTX 3070 graphics and AMD Ryzen 7 processor",
+    "price": "$1,299.99",
+    "originalPrice": "$1,599.99",
+    "discount": "19% OFF",
+    "image": "/images/gaming-laptop.jpg",
+    "category": "Electronics",
+    "featured": true,
+    "content": "<h2>Ultimate Gaming Performance</h2>\n<p>The ASUS ROG Strix G15 delivers exceptional gaming performance with its powerful hardware combination. Perfect for both casual and competitive gaming.</p>\n<h3>Key Features</h3>\n<ul>\n<li><strong>AMD Ryzen 7 5800H Processor</strong>: 8-core, 16-thread performance</li>\n<li><strong>NVIDIA GeForce RTX 3070</strong>: Ray tracing and DLSS support</li>\n<li><strong>16GB DDR4 RAM</strong>: Upgradeable to 32GB</li>\n<li><strong>1TB NVMe SSD</strong>: Fast storage for quick loading times</li>\n<li><strong>15.6-inch FHD Display</strong>: 144Hz refresh rate for smooth gameplay</li>\n</ul>\n<h3>Why We Love It</h3>\n<p>This laptop strikes the perfect balance between performance and price. The build quality is excellent, and the cooling system keeps temperatures manageable even during intensive gaming sessions.</p>\n<h3>Performance Benchmarks</h3>\n<ul>\n<li><strong>3DMark Time Spy</strong>: ~9,800 points</li>\n<li><strong>Cyberpunk 2077</strong>: 60+ FPS on High settings</li>\n<li><strong>Call of Duty</strong>: 120+ FPS on Ultra settings</li>\n</ul>\n<p>Perfect for gamers who want desktop-level performance in a portable package!</p>\n",
+    "buyingLinks": [
+      {
+        "platform": "Amazon",
+        "url": "https://amazon.com/example",
+        "price": "$1,299.99"
+      },
+      {
+        "platform": "Best Buy",
+        "url": "https://bestbuy.com/example",
+        "price": "$1,349.99"
+      },
+      {
+        "platform": "Newegg",
+        "url": "https://newegg.com/example",
+        "price": "$1,289.99"
+      }
+    ]
+  },
+  {
+    "slug": "wireless-earbuds",
+    "title": "Sony WF-1000XM4 Wireless Earbuds",
+    "description": "Premium noise-canceling wireless earbuds with exceptional sound quality",
+    "price": "₹19,999",
+    "originalPrice": "₹24,999",
+    "discount": "20% OFF",
+    "image": "/images/sony-earbuds.jpg",
+    "category": "Audio",
+    "featured": true,
+    "content": "<h2>Sony WF-1000XM4 - Audio Excellence Redefined</h2>\n<p>Experience music like never before with Sony's flagship wireless earbuds. The WF-1000XM4 combines industry-leading noise cancellation with premium sound quality in a compact, comfortable design.</p>\n<h3>Outstanding Features</h3>\n<p><strong>Superior Audio Quality</strong></p>\n<ul>\n<li>V1 Processor for exceptional sound processing</li>\n<li>6mm dynamic drivers with wide frequency response</li>\n<li>LDAC codec support for high-resolution audio</li>\n<li>360 Reality Audio compatibility</li>\n</ul>\n<p><strong>Industry-Leading Noise Cancellation</strong></p>\n<ul>\n<li>Dual Noise Sensor technology</li>\n<li>Real-time noise cancellation processing</li>\n<li>Ambient sound mode for situational awareness</li>\n<li>Speak-to-Chat technology</li>\n</ul>\n<p><strong>Long-Lasting Battery</strong></p>\n<ul>\n<li>8 hours of playback (earbuds only)</li>\n<li>24 hours total with charging case</li>\n<li>Quick charge: 5 minutes for 60 minutes of playback</li>\n<li>Wireless charging case included</li>\n</ul>\n<h3>Comfort and Fit</h3>\n<p>The ergonomic design ensures comfortable long-term wear. Multiple ear tip sizes are included to provide the perfect seal for optimal noise cancellation and sound quality.</p>\n<h3>Smart Features</h3>\n<p>Touch controls allow easy management of music, calls, and noise cancellation settings. Voice assistant integration with Google Assistant and Alexa provides hands-free convenience.</p>\n<h3>Perfect For</h3>\n<p>These earbuds are ideal for audiophiles, frequent travelers, and anyone seeking premium wireless audio with excellent noise cancellation. Whether you're commuting, working out, or relaxing at home, the WF-1000XM4 delivers exceptional performance.</p>\n",
+    "buyingLinks": [
+      {
+        "platform": "Amazon India",
+        "url": "https://amazon.in/dp/example",
+        "price": "₹19,999"
+      },
+      {
+        "platform": "Amazon.com",
+        "url": "https://amazon.com/dp/example",
+        "price": "$249"
+      },
+      {
+        "platform": "Sony Official Store",
+        "url": "https://sony.com/example",
+        "price": "₹20,999"
+      },
+      {
+        "platform": "Croma",
+        "url": "https://croma.com/example",
+        "price": "₹20,499"
+      }
+    ]
+  }
+]
